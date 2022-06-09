@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ws Guajira</string>
+    <string name="www">https://earthquake.usgs.gov/</string>
+    <string name="www_api">http://10.194.156.24:3107/</string>
+</resources>
